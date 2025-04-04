@@ -1,6 +1,6 @@
 ---
 apiVersion: tekton.dev/v1beta1
-kind: Kind
+kind: Task
 metadata:
   name: cleanup
 spec:
